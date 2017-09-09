@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nccu_dct/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-ae82627af07739796ebd2b1d3e762fa96a659d80.jar" />
+    </item>
+    <item
+        jar="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-6048ec8174c7cd592373ac099f42ee5fc0911dbc.jar" />
+    </item>
+    <item
+        jar="/Users/nccu_dct/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-015c1137d0339dff029e83664d3e2035c72f1f83.jar" />
+    </item>
+    <item
+        jar="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/pre-dexed/debug/classes-9a96990788cbf841c3bb616cc54380a1323932e6.jar" />
+    </item>
+    <item
+        jar="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/nccu_dct/Desktop/TestPHPMySQL/app/build/intermediates/pre-dexed/debug/classes-78b9bdd9bf0e751fea6985551e51eef444e57e8a.jar" />
+    </item>
+
+</items>
